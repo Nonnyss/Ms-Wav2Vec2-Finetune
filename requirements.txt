@@ -1,0 +1,6 @@
+torch==1.9.0+cu111
+datasets==1.11.0
+transformers==4.9.1
+jiwer
+ipywidgets
+pythainlp==2.3.1
